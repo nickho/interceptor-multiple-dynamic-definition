@@ -1,0 +1,8 @@
+.project
+target
+.classpath
+.settings
+.apt_generated
+.factorypath
+*.tlog
+derby.log
